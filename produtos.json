@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nome": "Laptop Dell XPS 13",
+    "marca": "Dell",
+    "preco": 1299.99,
+    "atributos": {
+      "tela": "13.4\"",
+      "processador": "Intel Core i7",
+      "ram": "16GB",
+      "armazenamento": "512GB SSD"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Laptop Lenovo ThinkPad X1 Carbon",
+    "marca": "Lenovo",
+    "preco": 1099.99,
+    "atributos": {
+      "tela": "14\"",
+      "processador": "Intel Core i5",
+      "ram": "8GB",
+      "armazenamento": "256GB SSD"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Desktop HP Pavilion",
+    "marca": "HP",
+    "preco": 699.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i3",
+      "ram": "8GB",
+      "armazenamento": "1TB HDD"
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Laptop Asus ROG Zephyrus G14",
+    "marca": "Asus",
+    "preco": 1299.99,
+    "atributos": {
+      "tela": "14\"",
+      "processador": "AMD Ryzen 9",
+      "ram": "16GB",
+      "armazenamento": "1TB NVMe SSD"
+    }
+  },
+  {
+    "id": 5,
+    "nome": "Desktop Dell Inspiron",
+    "marca": "Dell",
+    "preco": 599.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i5",
+      "ram": "12GB",
+      "armazenamento": "256GB SSD"
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Laptop Microsoft Surface Laptop 4",
+    "marca": "Microsoft",
+    "preco": 999.99,
+    "atributos": {
+      "tela": "13.5\"",
+      "processador": "Intel Core i7",
+      "ram": "16GB",
+      "armazenamento": "512GB SSD"
+    }
+  },
+  {
+    "id": 7,
+    "nome": "Desktop Acer Aspire",
+    "marca": "Acer",
+    "preco": 499.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "AMD Ryzen 5",
+      "ram": "8GB",
+      "armazenamento": "512GB SSD"
+    }
+  },
+  {
+    "id": 8,
+    "nome": "Laptop HP Spectre x360",
+    "marca": "HP",
+    "preco": 1199.99,
+    "atributos": {
+      "tela": "13.3\"",
+      "processador": "Intel Core i7",
+      "ram": "16GB",
+      "armazenamento": "1TB NVMe SSD"
+    }
+  },
+  {
+    "id": 9,
+    "nome": "Desktop Lenovo IdeaCentre",
+    "marca": "Lenovo",
+    "preco": 599.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i3",
+      "ram": "4GB",
+      "armazenamento": "1TB HDD"
+    }
+  },
+  {
+    "id": 10,
+    "nome": "Laptop Acer Predator Helios 300",
+    "marca": "Acer",
+    "preco": 999.99,
+    "atributos": {
+      "tela": "15.6\"",
+      "processador": "Intel Core i7",
+      "ram": "16GB",
+      "armazenamento": "512GB NVMe SSD"
+    }
+  },
+  {
+    "id": 11,
+    "nome": "Laptop Lenovo Yoga C940",
+    "marca": "Lenovo",
+    "preco": 1199.99,
+    "atributos": {
+      "tela": "14\"",
+      "processador": "Intel Core i7",
+      "ram": "12GB",
+      "armazenamento": "256GB SSD"
+    }
+  },
+  {
+    "id": 12,
+    "nome": "Desktop Dell XPS Tower",
+    "marca": "Dell",
+    "preco": 799.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i5",
+      "ram": "8GB",
+      "armazenamento": "512GB SSD"
+    }
+  },
+  {
+    "id": 13,
+    "nome": "Laptop Apple MacBook Air",
+    "marca": "Apple",
+    "preco": 999.00,
+    "atributos": {
+      "tela": "13.3\"",
+      "processador": "Apple M1",
+      "ram": "8GB",
+      "armazenamento": "256GB SSD"
+    }
+  },
+  {
+    "id": 14,
+    "nome": "Desktop HP EliteDesk",
+    "marca": "HP",
+    "preco": 899.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i7",
+      "ram": "16GB",
+      "armazenamento": "1TB HDD"
+    }
+  },
+  {
+    "id": 15,
+    "nome": "Laptop Microsoft Surface Pro 7",
+    "marca": "Microsoft",
+    "preco": 799.99,
+    "atributos": {
+      "tela": "12.3\"",
+      "processador": "Intel Core i5",
+      "ram": "8GB",
+      "armazenamento": "128GB SSD"
+    }
+  },
+  {
+    "id": 16,
+    "nome": "Desktop Acer Predator Orion 9000",
+    "marca": "Acer",
+    "preco": 1999.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i9",
+      "ram": "32GB",
+      "armazenamento": "1TB SSD + 2TB HDD"
+    }
+  },
+  {
+    "id": 17,
+    "nome": "Laptop Asus ZenBook 14",
+    "marca": "Asus",
+    "preco": 999.99,
+    "atributos": {
+      "tela": "14\"",
+      "processador": "AMD Ryzen 7",
+      "ram": "16GB",
+      "armazenamento": "512GB NVMe SSD"
+    }
+  },
+  {
+    "id": 18,
+    "nome": "Desktop Lenovo ThinkCentre",
+    "marca": "Lenovo",
+    "preco": 599.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i3",
+      "ram": "8GB",
+      "armazenamento": "256GB SSD"
+    }
+  },
+  {
+    "id": 19,
+    "nome": "Laptop MSI GS66 Stealth",
+    "marca": "MSI",
+    "preco": 1499.99,
+    "atributos": {
+      "tela": "15.6\"",
+      "processador": "Intel Core i7",
+      "ram": "32GB",
+      "armazenamento": "1TB NVMe SSD"
+    }
+  },
+  {
+    "id": 20,
+    "nome": "Desktop CyberPowerPC Gamer Xtreme VR",
+    "marca": "CyberPowerPC",
+    "preco": 899.99,
+    "atributos": {
+      "tipo": "Desktop",
+      "processador": "Intel Core i5",
+      "ram": "16GB",
+      "armazenamento": "512GB SSD"
+    }
+  }
+]
